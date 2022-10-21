@@ -1,3 +1,6 @@
+
+// This is a  bruteforce approach
+
 #include <bits/stdc++.h>
 using namespace std;
 int max_sum_subArray(int A[], int n)
